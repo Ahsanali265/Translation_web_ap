@@ -36,6 +36,4 @@ The application uses the Web Speech API, which may not be supported in all brows
 
 This prototype is for demonstration purposes and may require further development for production use.
 
-## License
 
-This project is licensed under the MIT License.
