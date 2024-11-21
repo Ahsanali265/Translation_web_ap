@@ -26,7 +26,7 @@ This is a prototype web application designed for real-time transcription and tra
 
 ## API Key
 
-The application requires an OpenAI API key to function. Ensure you have your API key and replace the placeholder in the script with your actual key.
+The application requires an OpenAI API key to function. Ensure you have your API key and replace the placeholder in the script with your actual key but this is a prototype so i had actually put my key.
 
 ## Browser Compatibility
 
