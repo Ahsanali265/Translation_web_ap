@@ -1,10 +1,12 @@
 
-# Healthcare Translation App
+# Healthcare Translation App Using Generative AI
 Healthcare Translation App for real-time voice-to-text and translation app
 
 ## Overview
 
 This is a prototype web application designed for real-time transcription and translation, specifically tailored for healthcare settings. The application leverages the Web Speech API for speech recognition and text-to-speech functionalities, and the OpenAI API for translation.
+
+This project was built as a pre-interview assignment with a 48-hour deadline.
 
 ## Project Structure
 
@@ -23,6 +25,12 @@ This is a prototype web application designed for real-time transcription and tra
 - **Start Listening**: Click the "Start Listening" button to begin speech recognition.
 - **Stop Listening**: Click the "Stop Listening" button to stop speech recognition.
 - **Speak Translated Text**: Click the "Speak Translated Text" button to read out the translated text.
+
+## Future Improvements
+- Secure backend for API calls
+- Add more languages and medical domain-specific tuning
+- Automated language detection
+- Save transcripts securely for record-keeping
 
 ## API Key
 
